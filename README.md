@@ -1,1 +1,1 @@
-# sel0337 Repo focado em fazer o controle de versões das práticas referentes a disciplina SEL0337
+# o codigo referente a pratica 6, faz um request via json nas linhas iniciais, de dados meteriologicos de uma estacao meteriologiaca proxima, utilizando latitude e longitude nas linhas 9 e 10. e apresenta um print dos dados nas linhas finais do codigo  SEL0337
